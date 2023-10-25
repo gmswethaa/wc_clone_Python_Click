@@ -1,0 +1,8 @@
+pywc.py
+setup.py
+pywc.egg-info/PKG-INFO
+pywc.egg-info/SOURCES.txt
+pywc.egg-info/dependency_links.txt
+pywc.egg-info/entry_points.txt
+pywc.egg-info/requires.txt
+pywc.egg-info/top_level.txt
